@@ -11,3 +11,6 @@ sklep2= {"Owoce":["Arbuz","Banan","Cytryna"]}
 for rzeczy in sklep2:
     print("Wchodzę do Warzywniaka i kupuję",(sklep2["Owoce"]))
 print("W sumie kupuje",len(sklep["Piekarnia"])+(len(sklep1["Warzywniak"]))+(len(sklep2["Owoce"])))
+print("Poprosze o paragon")
+for i in range(0,101):
+    print(i)
